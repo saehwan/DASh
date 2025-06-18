@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "972782463143",
+    "project_id": "das-running-app",
+    "storage_bucket": "das-running-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972782463143:android:56e5c35619e2c178755382",
+        "android_client_info": {
+          "package_name": "com.example.das_running_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972782463143-6qs0hbegidbtunqa6v68ba5l8f4363pu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.das_running_app",
+            "certificate_hash": "d5750f20a69c15516f311805986cfda3012eafe2"
+          }
+        },
+        {
+          "client_id": "972782463143-to5fpjerde1fo9u4h2bhmbeq4an9fpac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW_dtNs8U8cCSBJffnT3I6ZNNBOwQiRxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972782463143-to5fpjerde1fo9u4h2bhmbeq4an9fpac.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972782463143-h2f4isa76ph1q0gha4qhdu32npf5fm4g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dasRunningApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
